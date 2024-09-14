@@ -1,5 +1,5 @@
 Hola mi nombre es umbralix-1993
-soy un apasionado del hacking ético y de python
+soy un apasionado del hacking ético y de python,
 me inclino más por utilizar ubuntu y usarlo como
 sistema de hacking. 
 Mis programas están orientados a la ciberseguridad
